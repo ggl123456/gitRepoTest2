@@ -9,4 +9,8 @@ public class GitTestClass {
     public void test2(){
 
     }
+
+    public void test3(){
+
+    }
 }
