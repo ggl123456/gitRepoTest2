@@ -24,4 +24,7 @@ public class GitTestClass {
     public void test5(){
 
     }
+    public void test6(){
+
+    }
 }
