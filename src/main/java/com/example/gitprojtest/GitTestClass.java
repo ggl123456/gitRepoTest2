@@ -31,4 +31,8 @@ public class GitTestClass {
     public void test7(){
 
     }
+
+    public void test8(){
+
+    }
 }
